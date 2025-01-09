@@ -1,1 +1,1 @@
-# Projeto-Trainee---Product-Owner-Emakers
+# Projeto QuintalAconchegante-Emakers Jr.
