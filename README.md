@@ -2,14 +2,22 @@ Bem-vindo ao backlog do projeto Quintal Aconchegante (Sistema de Controle de Ado
 
 O sistema será acessado por um único tipo de usuário, denominado Administrador, que poderá realizar login utilizando um nome de usuário e senha previamente cadastrados. Para garantir a segurança, o sistema contará com autenticação via Token de acesso, com expiração automática, e oclusão da senha durante o login. Além disso, será compatível com os navegadores Google Chrome e Opera, atendendo aos requisitos funcionais definidos pelo cliente.
 
-As principais funcionalidades a serem desenvolvidas incluem:
+**As principais funcionalidades a serem desenvolvidas incluem:**
 
-CRUD de Animais, Tutores e Adoções: Cadastro, listagem, remoção e atualização de informações.
-Relacionamento Tutor-Animal: Registro de adoções, com associação direta entre tutores e animais.
-Segurança: Implementação de autenticação segura, tratamento de exceções e compatibilidade com navegadores.
-O desenvolvimento será dividido em sprints, organizando as tarefas em issues para facilitar a gestão no GitHub. Nossa equipe é composta por:
+_CRUD de Animais, Tutores e Adoções: Cadastro, listagem, remoção e atualização de informações._
 
-Jorginho (responsável pelo Front-end)
-Dorotéia (responsável pelo Back-end)
-Luiz Phelipe (Product Owner)
-Estamos comprometidos em entregar um sistema eficiente, que atenda às expectativas do cliente e otimize os processos de adoção. 🚀
+_Relacionamento Tutor-Animal: Registro de adoções, com associação direta entre tutores e animais._
+
+_Segurança: Implementação de autenticação segura, tratamento de exceções e compatibilidade com navegadores._
+
+_O desenvolvimento será dividido em sprints, organizando as tarefas em issues para facilitar a gestão no GitHub._
+
+**Nossa equipe é composta por:**
+
+_Jorginho (responsável pelo Front-end)_
+
+_Dorotéia (responsável pelo Back-end)_
+
+_Luiz Phelipe (Product Owner)_
+
+**Estamos comprometidos em entregar um sistema eficiente, que atenda às expectativas do cliente e otimize os processos de adoção. 🚀**
